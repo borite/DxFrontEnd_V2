@@ -1,0 +1,56 @@
+<!doctype html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link href="../css/common.css" rel="stylesheet" type="text/css">
+	<!-- TemplateBeginEditable name="doctitle" -->
+	<title>无标题文档</title>
+	<!-- TemplateEndEditable -->
+	<!-- TemplateBeginEditable name="head" -->
+	<!-- TemplateEndEditable -->
+
+</head>
+
+<body>
+	<!--顶部导航开始-->
+	<header id="header">
+			<div id="content">
+				
+				<a id="logo_wrap" href="index.html">
+				  <img id="logo_top" src="images/logo_top.png" width="120" height="35" alt="大侠网">
+			    </a>
+				
+				<nav id="nav_top">
+					<a href="index.html" class="active">首页</a>
+					<a href="course.html">课程</a>
+					<a href="">秘籍</a>
+					<a href="">侠说</a>
+					<a href="">出山</a>
+				</nav>
+				
+				
+				<div id="user_area">
+					<div class="loged">
+						<img id="user_head" src="images/header.jpg" width="46" height="46" alt="用户头像" />
+						<img src="images/ring.png" width="26" height="28" alt="通知" />
+						<img src="images/cart.png" width="25" height="25" alt="购物车">
+					</div>
+					<div class="unlog">
+					    <a href="#">登录</a>
+						<a href="#">注册</a>
+					</div>	
+				</div>
+				
+				<div id="search_area">
+					<input id="ipt_keyword" type="text" placeholder="Web前端" />
+					<img id="btn_search" src="images/btn_search.png" width="20" height="20" />
+				</div>
+			</div>
+
+	</header>
+	<!--顶部导航结束-->
+	<!-- TemplateBeginEditable name="EditArea" -->EditArea<!-- TemplateEndEditable -->
+	
+	
+</body>
+</html>
